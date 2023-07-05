@@ -42,6 +42,7 @@ The repository covers several key concepts in deep learning and neural networks,
 - Recurrent neural networks (RNNs) for sequential data analysis
 - Transfer learning and pre-trained models
 - Hyperparameter tuning and model evaluation
+- Tensorboard
 
 Each concept is explained in a clear and concise manner, making it easy to grasp even for beginners. Code examples and demonstrations are provided to reinforce the understanding of these concepts.
 
