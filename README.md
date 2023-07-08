@@ -38,7 +38,7 @@ The repository covers several key concepts in deep learning and neural networks,
 - Neural network architecture and layers
 - Activation functions and their impact on model performance
 - Loss functions and optimization algorithms
-- Convolutional neural networks (CNNs) for computer vision tasks
+- Convolutional neural networks (CNNs) 
 - Recurrent neural networks (RNNs) for sequential data analysis
 - Transfer learning and pre-trained models
 - Hyperparameter tuning and model evaluation
