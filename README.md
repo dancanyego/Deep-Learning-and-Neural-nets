@@ -62,6 +62,7 @@ Contributions to this repository are welcome and greatly appreciated. If you hav
 Refer to the `DATA` file for a list of datasets for future learning . Most of the datasets can be found at kaggle.com
 
 For the `CNN`, The Dataset can be found through the following drive link https://drive.google.com/u/0/uc?id=1N1gcN8_5dZVlIejoC00QZLSZFhGoSoQb&export=download
+- The `CNN` part is we classify given images to see if a cell has been infected with malaria or not.
 
 
 
